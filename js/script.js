@@ -184,10 +184,10 @@
     }
 
     $('.simple_timer').syotimer({
-        year: 2025,
+        year: 2022,
         month: 9,
-        day: 9,
-        hour: 20,
+        day: 5,
+        hour: 15,
         minute: 30
     })
 
