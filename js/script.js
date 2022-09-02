@@ -187,8 +187,8 @@
         year: 2022,
         month: 9,
         day: 5,
-        hour: 12,
-        minute: 29
+        hour: 11,
+        minute: 59
     })
 
 })(jQuery);
